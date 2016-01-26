@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; //importe la class java.util.Scanner
 
 public class TestTrinome {
 	public static void main(String[] args){
